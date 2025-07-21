@@ -1,0 +1,1 @@
+Testing OCA bot behavior with the commit author email
