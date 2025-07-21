@@ -1,0 +1,1 @@
+Testing OCA bot behavior without the commit author email with the new changes PR author is a contributor
