@@ -1,0 +1,4 @@
+Testing the bot's behavior
+Testing the bot's behavior for multiple commits
+Testing the bot's behavior for multiple commits in the PR
+with contributors missing email/username
