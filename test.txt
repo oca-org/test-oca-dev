@@ -3,3 +3,4 @@ Testing the bot's behavior for multiple commits
 Testing the bot's behavior for multiple commits in the PR
 with contributors missing email/username
 Line from AuthorOne
+Line from AuthorTwo
